@@ -1,5 +1,8 @@
 # Runge-Kutta-Algorithm
 
-Algorithm to solve a system of first order differentual equations, written in Python. The algorithm is useful for Hamtilonian mechanics since,
+Algorithm to solve a system of first order differentual equations (see [here](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods#The_Runge%E2%80%93Kutta_method)), written in Python. The algorithm is useful for Hamtilonian mechanics since the equations there are (assuming no explicit time dependence of H):
+q<sub>i</sub> =  ∂H/∂p<sub>i</sub> 
+p<sub>i</sub> = - ∂H/∂q<sub>i</sub> 
 
-p<sub>i</sub> = - $\partial$
+The algorithm was tested using celestial mechanics. The initial coniditions of an asteriod are given and the trajectory is was then computed.
+
