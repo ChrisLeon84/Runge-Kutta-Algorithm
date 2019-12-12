@@ -1,7 +1,5 @@
 # Runge-Kutta-Algorithm
 
-Algorithm to solve a system of first order differentual equations, written in Python. 
+Algorithm to solve a system of first order differentual equations, written in Python. The algorithm is useful for Hamtilonian mechanics since,
 
-The algorithm is useful for 
-
-$`\sqrt{2}`$.
+p<sub>i</sub> = - $\partial$
