@@ -6,5 +6,5 @@ q<sub>i</sub> =  ∂H/∂p<sub>i</sub>
 
 p<sub>i</sub> = - ∂H/∂q<sub>i</sub> 
 
-The algorithm was tested using celestial mechanics. The initial coniditions of an asteriod are given and the trajectory is was then computed.
+The algorithm was tested using celestial mechanics. The initial coniditions of an asteriod are given and the trajectory is was then computed. Assignment for graduate course in computational physics.
 
